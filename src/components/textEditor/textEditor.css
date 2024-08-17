@@ -1,0 +1,7 @@
+.ql-toolbar {
+  background-color: #001f3f; /* Dark background color for contrast */
+}
+
+.ql-toolbar .ql-formats {
+  color: white !important;
+}

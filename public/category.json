@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Air Cooled",
+    "image": "https://raw.githubusercontent.com/Shahed007/Collecting-car/main/Air_Cooled_desktop.jpg",
+    "icon": "https://raw.githubusercontent.com/Shahed007/Collecting-car/8019c3b55387ac5d09b194cd2334437d635ac35b/EN_Air_Cooled.svg"
+  },
+  {
+    "id": 2,
+    "name": "Offroad Explores ",
+    "image": "https://raw.githubusercontent.com/Shahed007/Collecting-car/main/Offroad_Explorers_desktop.jpg",
+    "icon": "https://raw.githubusercontent.com/Shahed007/Collecting-car/8019c3b55387ac5d09b194cd2334437d635ac35b/EN_Offroad_Explorers.svg"
+  },
+  {
+    "id": 3,
+    "name": "Supercars",
+    "image": "https://raw.githubusercontent.com/Shahed007/Collecting-car/main/Supercars_desktop.jpg",
+    "icon": "https://raw.githubusercontent.com/Shahed007/Collecting-car/8019c3b55387ac5d09b194cd2334437d635ac35b/EN_Supercars.svg"
+  },
+  {
+    "id": 4,
+    "name": "JDM Legends",
+    "image": "https://raw.githubusercontent.com/Shahed007/Collecting-car/main/JDM_Legends_desktop.jpg",
+    "icon": "https://raw.githubusercontent.com/Shahed007/Collecting-car/8019c3b55387ac5d09b194cd2334437d635ac35b/EN_JDM_Legends.svg"
+  }
+]

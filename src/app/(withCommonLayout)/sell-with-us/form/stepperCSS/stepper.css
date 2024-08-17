@@ -1,0 +1,19 @@
+/* styles.css */
+.custom-stepper .stepper-container {
+    background-color: #f0f0f0; /* Background color for the stepper container */
+  }
+  
+  .custom-stepper .stepper-step {
+    color: #007bff; /* Color for the steps */
+  }
+  
+  .custom-stepper .stepper-step.active {
+    background-color: #007bff; /* Background color for the active step */
+    color: #fff; /* Color for the active step text */
+  }
+  
+  .custom-stepper .stepper-step.completed {
+    background-color: #28a745; /* Background color for completed steps */
+    color: #fff; /* Color for the completed step text */
+  }
+  

@@ -1,0 +1,8 @@
+.product-thumbs-gallery .swiper-slide {
+  opacity: 0.7;
+  transition: opacity 700ms ease-in-out;
+}
+
+.product-thumbs-gallery .swiper-slide.swiper-slide-thumb-active {
+  opacity: 1;
+}

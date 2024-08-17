@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer section {
+  .section-padding {
+    @apply pt-[80px];
+  }
+}
+
+.hero-section-bakground-image {
+  background-image: url("../assets/home/home-hero-section-image.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  background-attachment: fixed;
+}
+
+.swiper-slide {
+  width: 30%;
+}
+
+.embeded-video {
+  height: 100%;
+  width: 100%;
+}
+
+.embeded-video iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  width: 30%;
+}
+/* styles.css or your preferred stylesheet */
+
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns */
+  gap: 10px; /* space between items */
+  padding: 10px; /* optional padding */
+}
+
+.gallery-item {
+  overflow: hidden; /* to handle overflow issues */
+}
+
+.img-responsive {
+  width: 200px;
+  height: 100px; /* ensure the image keeps its aspect ratio */
+}
